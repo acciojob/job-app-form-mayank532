@@ -1,2 +1,15 @@
 
-/* Your CSS Code here. */
+.hdr {
+    background-color: rgb(121, 121, 116);
+    color:aliceblue;
+    text-align: center;
+    padding: 40px;
+}
+
+.frm{
+    background-color: rgb(158, 153, 153);
+    color: black;
+    text-align: left;
+    padding: 40px;
+}
+
